@@ -1,6 +1,6 @@
 # TJWADA
 
-I build product-shaped software — native iOS and TypeScript web — and care about the parts that usually get skipped: privacy, scoring math, and making a demo runnable without a pile of API keys.
+The things I build come from things I already do on the daily basis. When "I wish there was an app or tool for this", I like to build that thing.
 
 ## Featured
 
