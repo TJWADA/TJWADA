@@ -1,6 +1,6 @@
 # TJWADA
 
-The things I build come from things I already do on the daily basis. When "I wish there was an app or tool for this", I like to build that thing.
+When "I wish there was an app for this", I build that thing.
 
 ## Featured
 
